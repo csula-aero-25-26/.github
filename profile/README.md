@@ -20,7 +20,7 @@ There are 3 core repositories named forecast-front/back/model each containing th
 Advisor:
 - Dr. Zilong Ye
 
-Liaison
+Liaison:
 - Dearo Yam
 
 Student Members:
