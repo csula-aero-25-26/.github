@@ -18,7 +18,7 @@ There are 3 core repositories named forecast-front/back/model each containing th
 ## Team
 
 Advisor:
-- Dr. Zilong Ye (zye5@calstatela.edu)
+- Dr. Zilong Ye
 
 Liaison
 - Dearo Yam
