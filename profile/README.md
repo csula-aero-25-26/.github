@@ -22,9 +22,9 @@ Advisor:
 
 Liaison:
 - Dearo Yam
+- Denny Ly
 
 Student Members:
-- Rizza Barnwell
 - Daniel Gomez
 - Joshua Hanscom
 - Daniel Herrera
