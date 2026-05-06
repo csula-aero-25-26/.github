@@ -11,7 +11,7 @@ We will aim to do this through a fullstack application.
 ## Content 
 There are 3 core repositories named forecast-front/back/model each containing their installation steps and requirements in the respective readme files:
 
-- forecast-front: A template built with **React** and **Bootstrap 5** and **Vite** for packaging.
+- forecast-front: A webpage built from a template utilzing **React**, **Bootstrap 5**, and **Vite** for packaging to visualize results.
 - forecast-back: A **Springboot** project with a PostgreSQL database that builds the Docker Containers.
 - forecast-model: A collection of datasets built into graphs through different models in Jupyter. 
 
